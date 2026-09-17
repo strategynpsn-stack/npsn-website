@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 180" role="img" aria-labelledby="title desc">
+<title id="title">National Political Strategy Network logo</title>
+<desc id="desc">Original abstract democratic institution, India network and strategy mark with NPSN wordmark.</desc>
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0b1f3a"/><stop offset=".55" stop-color="#173f67"/><stop offset="1" stop-color="#0b1f3a"/></linearGradient>
+</defs>
+<g transform="translate(18 12)">
+  <path d="M78 12 C45 18 22 39 22 70 C22 104 49 128 78 142 C107 128 134 104 134 70 C134 39 111 18 78 12Z" fill="none" stroke="url(#g)" stroke-width="7"/>
+  <path d="M45 72 L58 58 L78 48 L98 58 L111 72" fill="none" stroke="#d99018" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M43 76 H113 M49 87 H107 M55 98 H101" stroke="#173f67" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="45" cy="72" r="5" fill="#13804a"/><circle cx="78" cy="48" r="5" fill="#d99018"/><circle cx="111" cy="72" r="5" fill="#13804a"/>
+  <path d="M78 112 C94 105 106 96 111 84" fill="none" stroke="#13804a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M107 82 L113 84 L111 90" fill="none" stroke="#13804a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(176 38)">
+  <text x="0" y="48" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" letter-spacing="3" fill="#0b1f3a">NPSN</text>
+  <text x="2" y="78" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#4b5b6a">NATIONAL POLITICAL STRATEGY NETWORK</text>
+</g>
+</svg>
